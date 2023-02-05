@@ -1,0 +1,10 @@
+Summary:
+In this excercise, we will use two sets of files to train and then compare the results of a email spam detector system. The program uses the the Naive Bayes method to identify which emails are spam based on word content and email name. It then compares its prediction accuracy.
+
+Files:
+Two folders included with two sets of files, "Train-Mails" and "Test-Mails".
+
+Notes:
+This notebook was done by the uploading the files to my GoogleDrive and then placing them in the same directory as my notebook. By mounting the Google Drive you are able to access the files from Drive and enter the path to the notebook.
+
+A majority of this code was pulled from a previous notebook created by Dr. Arin Brahma. The purpose of this excercise is to demonstrate knowledge through the use of commentting and inline coding.
