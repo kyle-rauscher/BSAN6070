@@ -20,10 +20,10 @@ The Data Contains the Characteristics:
 behavior and spending nature (higher scores indicate higher spending)
 
 This program looks to achieve five overall tasks:
-Load the dataset and perform exploratory data analysis (EDA)
-Prepare the data for clustering
-Implement k-means clustering
-Visualize and analyze the clusters
+Load the dataset and perform exploratory data analysis (EDA),
+Prepare the data for clustering,
+Implement k-means clustering,
+Visualize and analyze the clusters,
 Write a report summarizing your findings
 
 If you have any issues running the code, please contect krausche@lion.lmu.edu.
