@@ -1,6 +1,6 @@
-#CA06
+# CA06
 
-##Customer Segmentation using K-Means Clustering
+## Customer Segmentation using K-Means Clustering
 
 The aim of this assignment is to perform customer segmentation using the K-Means clustering algorithm 
 in order to better understand the different types of customers in a given dataset.
